@@ -16,7 +16,6 @@ import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
  * 安全配置类.
  * 
  * @since 1.0.0 2017年7月25日
- * @author <a href="https://waylau.com">Way Lau</a> 
  */
 @Configuration
 @EnableWebSecurity
