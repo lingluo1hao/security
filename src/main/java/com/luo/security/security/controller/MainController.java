@@ -17,7 +17,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
  * Main Controller.
  * 
  * @since 1.0.0 2017年7月26日
- * @author <a href="https://waylau.com">Way Lau</a> 
  */
 @Controller
 public class MainController {
