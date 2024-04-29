@@ -14,7 +14,6 @@ import java.util.Optional;
  * User 控制器.
  * 
  * @since 1.0.0 2017年7月9日
- * @author <a href="https://waylau.com">Way Lau</a> 
  */
 @RestController
 @RequestMapping("/users")
