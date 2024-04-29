@@ -23,7 +23,7 @@ public class UserController {
 	private UserRepository userRepository;
 	
 	/**
-	 * 查询所有用户
+	 * 查询所有用户信息
 	 * @param model
 	 * @return
 	 */
